@@ -1,5 +1,7 @@
 # Data_Assn2
 
+** This project uses Jupyter Notebook **
+
 Description:
 This is the second data analysis assignment, The requirements are as follows:
 
